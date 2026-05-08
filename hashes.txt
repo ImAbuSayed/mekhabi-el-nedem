@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mekhabi El Nedem
+
+This log tracks the cryptographic history and versioning for the song **Mekhabi El Nedem** (mekhabi-el-nedem).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T20:36:49.652502 | `v1` | `e1e16cbb21951dd27f73d40afb508ca79c6db059f3fda368f328ea6ca5ec1972` | `0687b29d10b00dfc22f4b249d9983363ea0c523435a859654a08a38e104d2959` | `2026-05-08_mekhabi-el-nedem-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
